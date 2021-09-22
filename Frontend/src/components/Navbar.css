@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgrey;
+  height: 60px;
+  padding: 0 20px;
+}
+
+.options {
+  height: 40px;
+  width: 120px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}

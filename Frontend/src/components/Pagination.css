@@ -1,0 +1,18 @@
+.pagination {
+  display: table;
+  margin: 20px auto;
+}
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline;
+}
+
+.change_page_buttons {
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+  border-radius: 10px;
+}

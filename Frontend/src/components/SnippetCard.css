@@ -1,0 +1,39 @@
+.snippet_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 70vw;
+  height: auto;
+  border: 1px solid black;
+}
+.snippet_card_header {
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
+  width: 100%;
+  padding: 0 20px;
+  background-color: lightgrey;
+}
+
+.snippet_card_content {
+  padding: 20px;
+  font-size: 16px;
+}
+
+.source_link {
+  border-radius: 20px;
+  padding: 0 10px;
+  background-color: lightblue;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.add_snippet_button {
+  border-radius: 20px;
+  padding: 0 10px;
+  background-color: lightblue;
+  height: 30px;
+}
